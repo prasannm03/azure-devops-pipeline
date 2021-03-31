@@ -24,7 +24,7 @@ toBase64(attributes.uriParams.password)]]]></os:value>
 output application/json
 ---
 {
-	"message": "Password is stored encrypted"
+	"message": "Password is stored encrypted."
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
